@@ -1,6 +1,6 @@
 🌟 Welcome to My Portfolio! 🚀
 
-Hey there! 👋 Welcome to my creative space where pixels meet passion! I'm [Author's Name], a dedicated Full Stack Developer with a knack for crafting captivating digital experiences. Join me on this journey as we explore the realms of technology and design! 💻✨
+Hey there! 👋 Welcome to my creative space where pixels meet passion! I'm Bhavya Nagar, a dedicated Full Stack Python Web Developer and Flutter Developer with a knack for crafting captivating digital experiences. Join me on this journey as we explore the realms of technology and design! 💻✨
 
 🔧 Technologies & Tools Used 🛠️
 
