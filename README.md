@@ -34,6 +34,4 @@ Feel free to reach out! Let's collaborate and build something amazing together! 
 
 Special thanks to the creators of the amazing tools and libraries that made this portfolio possible! 🌟
 
-📝 License
 
-This project is licensed under [License Name]. See the LICENSE.md file for details.
