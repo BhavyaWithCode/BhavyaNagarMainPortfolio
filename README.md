@@ -1,8 +1,10 @@
-🌟 Welcome to My Portfolio! 🚀
+### 🌟 Welcome to My Portfolio! 🚀
+
+![bhavya_portfolio_image](https://github.com/BhavyaWithCode/BhavyaNagarMainPortfolio/assets/153913406/b6f3da96-8b72-4b92-be6f-25c48dba57bd)
 
 Hey there! 👋 Welcome to my creative space where pixels meet passion! I'm Bhavya Nagar, a dedicated Full Stack Python Web Developer and Flutter Developer with a knack for crafting captivating digital experiences. Join me on this journey as we explore the realms of technology and design! 💻✨
 
-🔧 Technologies & Tools Used 🛠️
+### 🔧 Technologies & Tools Used 🛠️
 
 Language: React.js
 Single Page Framework: React Router DOM
